@@ -96,7 +96,7 @@ Clear systems before unnecessary complexity
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=gridhouse-digital&show_icons=true&hide_border=true&theme=dark&title_color=FF4500&icon_color=FF4500&text_color=E5E7EB&bg_color=0F0F0F" alt="Gridhouse Digital GitHub statistics" />
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gridhouse-digital&amp;theme=github_dark&amp;title_color=FF4500&amp;text_color=E5E7EB&amp;bg_color=0F0F0F&amp;border_color=0F0F0F&amp;icon_color=FF4500" alt="Gridhouse Digital GitHub statistics" />
 
 <img height="170" src="https://streak-stats.demolab.com?user=gridhouse-digital&theme=dark&hide_border=true&background=0F0F0F&ring=FF4500&fire=FF4500&currStreakLabel=FF4500" alt="Gridhouse Digital contribution streak" />
 
